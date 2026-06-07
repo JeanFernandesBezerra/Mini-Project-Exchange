@@ -1,5 +1,4 @@
-# Mini-Project-Exchange
-programm development to trainer programming logic
+
 # 🪙 Crypto Exchange CLI Project
 
 Um simulador de exchange de criptomoedas baseado em terminal, desenvolvido em **JavaScript (Node.js)**. O projeto conta com um sistema de autenticação de usuários, validação estrita de segurança para senhas, gerenciamento de carteira (depósitos e saldos) e emissão de ordens de compra e venda para **Bitcoin (BTC)**, **Ethereum (ETH)** e **Solana (SOL)** com ordenação dinâmica de ofertas.
